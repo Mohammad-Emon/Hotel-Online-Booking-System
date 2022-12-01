@@ -1,3 +1,3 @@
 # Hotel-Online-Booking-System-
-Software System Design and full development using JAVA (SRS, diagrams, prototype etc.)
+Software system design and full development using JAVA (SRS, diagrams, prototype(UI) etc.)
 
